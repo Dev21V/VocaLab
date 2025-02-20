@@ -20,7 +20,7 @@
  👩‍💻 윤혜성 : [<img alt="GITHUB LINK" src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>](https://github.com/s2ongYoon)[<img alt="Velog LINK" src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white"/>](https://velog.io/@comete_yoon/posts)<br />
 
 ## ERD
-<img width="878" alt="스크린샷 2025-02-19 오후 8 47 10" src="https://github.com/user-attachments/assets/6aee403c-fc37-47bb-90d5-b1f8b26ed064" />
+<img width="630" alt="스크린샷 2025-02-19 오후 8 47 10" src="https://github.com/user-attachments/assets/df27fba5-b0d7-48b4-b6c1-1b63bdca69a2" />
 
 ## 시스템 아키텍처
 <img width="1454" alt="스크린샷 2025-02-19 오후 8 49 34" src="https://github.com/user-attachments/assets/a7e9824e-ae40-44f8-b6b0-4ba4ad6f7de2" />
